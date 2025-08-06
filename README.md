@@ -4,15 +4,15 @@ KindleMind is a mobile application designed to help individuals navigating addic
 
 User Features 🚀
 
-Personalized Resource Feed: Receive timely and relevant suggestions for articles,quotes and messages that support recovery.
+**Personalized Resource Feed**: Receive timely and relevant suggestions for articles,quotes and messages that support recovery.
 
-Discover Similar Users: Connect with people on similar recovery paths for encouragement and shared experiences.
+**Discover Similar Users**: Connect with people on similar recovery paths for encouragement and shared experiences.
 
-Save for Later: Bookmark helpful resources for easy access.
+**Save for Later**: Bookmark helpful resources for easy access.
 
-Secure Authentication: Keep your account and preferences safe with Firebase-based login.
+**Secure Authentication**: Keep your account and preferences safe with Firebase-based login.
 
-ML Integration 🤖
+**ML Integration 🤖**
 
 The app integrates with the KindleMind-Model to deliver real-time recommendations. Using the model's predictions, the app:
 
@@ -22,38 +22,36 @@ Suggests similar users to promote connection and motivation
 
 The model is accessed through a deployed API endpoint on Render.
 
-Admin Features 🛠️
+**Admin Features 🛠️**
 
 Model Settings Management: Configure how often recommendations are refreshed.
 
 Resource Insights: Monitor which resources are frequently recommended or saved.
 
-Tech Stack 🛠️
+**Tech Stack 🛠️**
 
-Frontend: Flutter (Dart)
+**Frontend**: Flutter (Dart)
 
-Backend & Auth: Firebase
+**Backend & Auth**: Firebase
 
-Database: Firestore
+**Database**: Firestore
 
-Machine Learning: Fine-tuned LightGCN
+**Machine Learning**: Fine-tuned LightGCN
 
-API Hosting: Render (Model endpoint)
-
-Recordings link📸
+**Recordings link📸**
 
 Authentication: https://drive.google.com/drive/folders/1wM2JqkWRpcG6IHfBfclNbjuh0YVdRmZX?usp=sharing
 
 Major Operations: https://drive.google.com/drive/folders/19iIqjaZ8oBftsYagBwNP-Ikqk_s1-9Lx?usp=sharing
 
-Status 📌
+**Status 📌**
 
 🟢 Completed – Fully functional and integrated with deployed model.
 
-Repository 🔗
+**Repository 🔗**
 
 https://github.com/DanielOgbeide-02/KindleMind-Intelligent-Resource-Recommendation-App-.git
 
-Model API Endpoint
+**Model API Endpoint**:
 
 https://kindle-mind.onrender.com
